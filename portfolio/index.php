@@ -25,34 +25,8 @@ $fields=isset($_SESSION['fields'])?$_SESSION['fields']:[];
 
 </head>
 <body>
-<!--
-	<header>
-		<div class="container">
-			<div id="branding">
-				<a href="#home"><h1>EB</h1></a>
-			</div>
-			<nav>
-				<ul class="topnav" id="myTopnav">
-					<li><a class="link" href="#about">About</a></li>
-					<li><a href="#boxes">Portfolio</a></li>
-					<li><a href="#contact">Contact</a></li>
-					<a href="javascript:void(0);" class="icon" onclick="myFunction()">
-						<i class="fa fa-bars"></i>
-					</a>
-				</ul>
-			</nav>
-			<a href="javascript:void(0);" class="icon" onclick="showDropdown()">
-				<i class="fa fa-bars"></i>
-			</a>
-			<div class="drop-hidden">
-				<a class="links-hidden" href="#about">About</a>
-				<a class="links-hidden" href="#boxes">Portfolio</a>
-				<a class="links-hidden" href="#contact">Contact</a>
-			</div>
-		</div>
-	</header>
--->
-	<header class="header">
+
+	<div class="header">
   <a href="" class="logo">E~B</a>
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
@@ -61,7 +35,7 @@ $fields=isset($_SESSION['fields'])?$_SESSION['fields']:[];
 		<li><a href="#boxes">Portfolio</a></li>
 		<li><a href="#contact">Contact</a></li>
   </ul>
-	</header>
+	</div>
 
 	<section id="home">
 		<div class="container">
