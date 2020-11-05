@@ -82,13 +82,13 @@ $fields=isset($_SESSION['fields'])?$_SESSION['fields']:[];
 				<a href="https://eb-react-pokedex.herokuapp.com/#/"><button>Demo</button></a><a href="https://github.com/ebeyerle/ReactPokedex"><button>Code</button></a>
 			</div>
 			<div class="box">
-				<img src="https://static9.depositphotos.com/1167801/1192/i/450/depositphotos_11928052-stock-photo-page-of-paper-curling.jpg">
+				<img src="https://lh3.googleusercontent.com/proxy/8H59UigUBNO_2sJbS8W7jNgNymVfpV8kHzwy25mkkD_NnQpjXoeO1Z5_V4ruUnDfg7J421W1IUU4Iq0G4MfCz7RkWMiElLKaGrrK2s0BeflydOo-sr3YtS4ngad_NqO7Y9XEQAYt5lf5OWkJ">
 				<h3>Wikipedia Viewer</h3>
 				<p>A web app that will show up to 10 wikipedia article links of whatever is typed into the search field.</p>
 				<a href="https://eb-portfolio-wikipedia.herokuapp.com/"><button>Demo</button></a><a href="https://github.com/ebeyerle/wikipedia-search-app"><button>Code</button></a>
 			</div>
 			<div class="box">
-				<img src="https://lh3.googleusercontent.com/proxy/8H59UigUBNO_2sJbS8W7jNgNymVfpV8kHzwy25mkkD_NnQpjXoeO1Z5_V4ruUnDfg7J421W1IUU4Iq0G4MfCz7RkWMiElLKaGrrK2s0BeflydOo-sr3YtS4ngad_NqO7Y9XEQAYt5lf5OWkJ">
+				<img src="https://static9.depositphotos.com/1167801/1192/i/450/depositphotos_11928052-stock-photo-page-of-paper-curling.jpg">
 				<h3>Notepage Web App</h3>
 				<p>Generates notes on the template depending on the selection the user picks on the selection box on the bottom of the page.</p>
 				<a href="https://codepen.io/ebeyerle/full/eKGrdX"><button>Demo</button></a><a href="https://codepen.io/ebeyerle/pen/eKGrdX"><button>Code</button></a>
