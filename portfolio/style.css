@@ -241,9 +241,9 @@ header .icon{
 
 .name{
   margin: auto;
-  padding-top: 130px;
-  font-family: Jazz LET, fantasy;
-  font-size: 30px;
+  padding-top: 100px;
+  font-family: 'KoHo', sans-serif;
+  font-size: 40px;
 }
 
 #about{
@@ -499,9 +499,13 @@ footer .information2{
 		background: black;
 		margin-top: 60px;
 	}
+	
+	.name{
+		font-size: 32px;
+	}
 
 	.circle-name{
-		margin-top: -15px;
+		margin-top: -2px;
 	}
 	
 	.links-hidden{
